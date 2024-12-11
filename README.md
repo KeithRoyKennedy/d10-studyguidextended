@@ -1,12 +1,13 @@
-# Drupal 8 Certification Study Guide
+# Drupal Certification Study Guide
 
-Notes based on the [Acquia Certified Drupal 8 Developer Study Guide](https://acquia-academy.gitbooks.io/study-guide-acquia-certified-drupal-8-developer/content/study-guide.html) and other resources.
+Notes based on the [Acquia Certified Drupal Specialist Developer Study Guide]([https://acquia-academy.gitbooks.io/study-guide-acquia-certified-drupal-8-developer/content/study-guide.html](https://docs.acquia.com/acquia-academy/study-guides/d10-backend-specialist)) and other resources. a Fork of [WidgetsBurritos D8 Study Guide](https://github.com/WidgetsBurritos/d8-studyguide) this fork aims to Update the info to Latest Drupal Standards to prepare you for the most recent Drupal Certification exams;
 
+# From the Original Creator 
 For the record, I officially passed my exam on 4/24/2017 at DrupalCon Baltimore.
 
 Feel free to open PRs, adding new info and correcting any mistakes you may find.
 
-It is highly recommended that you also read the [Drupal 8 User Guide](https://www.drupal.org/docs/user_guide/en/index.html) as much of the site building section (including the missing notes in this repo) covers what is in the user guide.
+It is highly recommended that you also read the [Drupal 8 User Guide](https://www.drupal.org/docs/user_guide/en/index.html) as much of the site building section (including the missing notes in this repo) covers what is in the user guide. * Note the Link will direct to the latest Drupal User Guide at the time of this Writing its version 11
 
 **Update: 4/2/2018:**
 I'm presently studying for both the *Front End Specialist* and *Back End Specialist* exams and have started updating the documentation to go a bit more in depth on certain topics. The material is all still relevant for the general developer exam, but may be a little more detailed than you need. Either way, I feel like it's important information to know regardless of whether or not it is asked on the certification exam.
@@ -19,10 +20,6 @@ On the front end, it's a bit important to familiarize yourself with some of the 
 On the backend, the best thing you can do is just build a module or two. We could add all kinds of things to the study guide, but nothing beats actual experience here. I'd also emphasize knowing the differences between plugins and services, and different ways you might validate and sanitize user input in a variety of contexts.
 
 ---
-
-### This study guide used in tandem with the 'Drupal 8 Certification Crash Course':
-**Presentation Slides:** https://docs.google.com/presentation/d/1EJ1xMnnfd1Sdg8bNb08scNnOzramPlP_II5WtEPlrgk/edit?usp=sharing
-
 **PRs Welcome!**
 
 *Disclaimer: This is not officially related to the Acquia certification process. These notes are just based on what I thought was important while I studied. Your results may vary.*
