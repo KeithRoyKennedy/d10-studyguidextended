@@ -1,6 +1,10 @@
 # Drupal Certification Study Guide
 
-Notes based on the [Acquia Certified Drupal Specialist Developer Study Guide]([https://acquia-academy.gitbooks.io/study-guide-acquia-certified-drupal-8-developer/content/study-guide.html](https://docs.acquia.com/acquia-academy/study-guides/d10-backend-specialist)) and other resources. a Fork of [WidgetsBurritos D8 Study Guide](https://github.com/WidgetsBurritos/d8-studyguide) this fork aims to Update the info to Latest Drupal Standards to prepare you for the most recent Drupal Certification exams;
+Notes based on the [Acquia Certified Drupal Specialist Developer Study Guide]([https://acquia-academy.gitbooks.io/study-guide-acquia-certified-drupal-8-developer/content/study-guide.html](https://docs.acquia.com/acquia-academy/study-guides/d10-backend-specialist)) and other resources. a Fork of [WidgetsBurritos D8 Study Guide](https://github.com/WidgetsBurritos/d8-studyguide) this fork aims to Update the info to Latest Drupal Standards and remove menstions of Depreciations. To prepare you for the most recent Drupal Certification exams;
+
+
+**Update: May 31, 2023:**
+I passed my https://dev.acquia.com/person/community/keith-kennedy drupal 10 Backend Certification using this guide.
 
 # From the Original Creator 
 For the record, I officially passed my exam on 4/24/2017 at DrupalCon Baltimore.
@@ -15,7 +19,7 @@ I'm presently studying for both the *Front End Specialist* and *Back End Special
 **Update: 4/9/2018:**
 I've successfully completed both the front end and back end exams. As to avoid giving anything specific away, I will say this study guide does have pretty decent coverage for both, but there are a few things missing. 
 
-On the front end, it's a bit important to familiarize yourself with some of the newer aspects of HTML5 if you came from a XHTML background. I'll also say just knowing about the breakpoint module isn't enough from a performance perspective. Also, it helps to know some of the more advanced features in Twig, even if you don't use them every day. I highly recommend reading [The Drupal 8 Theming Guide](https://sqndr.github.io/d8-theming-guide/index.html). It is a rather helpful resource and definitely proved to be beneficial to me. 
+On the front end, it's a bit important to familiarize yourself with some of the newer aspects of HTML5 if you came from a XHTML background. I'll also say just knowing about the breakpoint module isn't enough from a performance perspective. Also, it helps to know some of the more advanced features in Twig, even if you don't use them every day. I highly recommend reading [The Drupal 8 Theming Guide](https://www.drupal.org/docs/develop/theming-drupal). It is a rather helpful resource and definitely proved to be beneficial to me. 
 
 On the backend, the best thing you can do is just build a module or two. We could add all kinds of things to the study guide, but nothing beats actual experience here. I'd also emphasize knowing the differences between plugins and services, and different ways you might validate and sanitize user input in a variety of contexts.
 
